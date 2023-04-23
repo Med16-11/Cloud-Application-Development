@@ -68,7 +68,7 @@ as a user-friendly interface for searching and reserving vehicles, options for d
 
 | PHP  | MYSQL | JavaScript | HTML | 
 | ------------- | ------------- |------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/php.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/mysql.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/html-3.svg"> | 
+| <img height="30px" src="https://cdn.svgporn.com/logos/php.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/mysql.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg"> | 
 
 <!-- Features -->
 ### :dart: Features
