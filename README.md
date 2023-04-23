@@ -66,9 +66,9 @@ as a user-friendly interface for searching and reserving vehicles, options for d
 <!-- TechStack -->
 ### :space_invader: Tech Stack
 
-| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | JavaSript | React | 
+| PHP  | MYSQL | JavaScript | HTML | 
 | ------------- | ------------- |------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> | 
+| <img height="30px" src="https://cdn.svgporn.com/logos/php.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/mysql.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/html-3.svg"> | 
 
 <!-- Features -->
 ### :dart: Features
