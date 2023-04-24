@@ -2,7 +2,7 @@
   <h1> Cloud Application Development </h1>
   
   <p>
-   A repository entirely dedicated to our 6th sem course "Cloud Application Development" which contains the progress report of each week on the project I am working.
+   A repository entirely dedicated to our 6th sem course "Cloud Application Development" which contain the progress report of each week on the project I am working.
   </p>
 
   
