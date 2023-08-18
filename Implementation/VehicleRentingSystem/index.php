@@ -53,26 +53,12 @@ require_once('connection.php');
                 else{
                     echo '<script>alert("Enter a proper password")</script>';
                 }
-
-
-
-                
-
-
-
             }
             else{
                 echo '<script>alert("enter a proper email")</script>';
             }
         }
     }
-
-
-
-
-
-
-
 ?>
     <div class="hai">
         <div class="navbar">
@@ -84,13 +70,10 @@ require_once('connection.php');
                     <li><a href="#">HOME</a></li>
                     <li><a href="aboutus.html">ABOUT</a></li>
                     <li><a href="#">SERVICES</a></li>
-                    
                     <li><a href="contactus.html">CONTACT</a></li>
                   <li> <button class="adminbtn"><a href="adminlogin.php">ADMIN LOGIN</a></button></li>
                 </ul>
             </div>
-            
-          
         </div>
         <div class="content">
             <h1>Rent Vehicle<br><span>your way</span></h1>
